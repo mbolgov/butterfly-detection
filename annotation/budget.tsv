@@ -1,0 +1,15 @@
+stage	bbox_rub	review_rub	rewards_rub	commission_rub	total_rub	paid_work_pages	work_answers
+pilot	9.00	6.00	15.00	6.00	21.00		
+exam_pilot	40.00	20.00	60.00	24.00	84.00		
+exam_main_two_pages	12.00	14.25	26.25	10.50	36.75		
+exam_main_one_page	6.00	7.50	13.50	5.40	18.90		
+round_1_bbox	150.00	0.00	150.00	60.00	210.00	100	400
+round_1_review_first_two	0.00	150.00	150.00	60.00	210.00	200	800
+round_1_review_third	0.00	75.00	75.00	30.00	105.00	100	400
+round_2_bbox	26.40	0.00	26.40	10.56	36.96	18	70
+round_2_review	0.00	39.60	39.60	15.84	55.44	54	210
+round_3_bbox_first	5.40	0.00	5.40	2.16	7.56	4	14
+round_3_bbox_two_more	10.80	0.00	10.80	4.32	15.12	8	28
+round_3_review_first_three	0.00	23.85	23.85	9.54	33.39	33	126
+round_3_review_fourth	0.00	7.95	7.95	3.18	11.13	11	42
+total	259.60	344.15	603.75	241.50	845.25		

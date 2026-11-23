@@ -1,0 +1,11 @@
+INPUT:photo_id	INPUT:image	INPUT:boxes	INPUT:annotation_status	INPUT:annotation_id	GOLDEN:verdict
+281782697	https://inaturalist-open-data.s3.amazonaws.com/photos/281782697/original.jpeg	"[{""left"":0.292,""top"":0.364,""width"":0.476,""height"":0.401}]"	objects	exam-review-01-281782697	approve
+124165290	https://inaturalist-open-data.s3.amazonaws.com/photos/124165290/original.jpeg	"[{""left"":0.087,""top"":0.175,""width"":0.473,""height"":0.432}]"	objects	exam-review-02-124165290	reject
+630671477	https://inaturalist-open-data.s3.amazonaws.com/photos/630671477/original.jpg	"[{""left"":0.068,""top"":0.452,""width"":0.286,""height"":0.271},{""left"":0.595,""top"":0.283,""width"":0.223,""height"":0.299}]"	objects	exam-review-03-630671477	approve
+277389111	https://inaturalist-open-data.s3.amazonaws.com/photos/277389111/original.jpeg	[]	empty	exam-review-04-277389111	approve
+161611344	https://inaturalist-open-data.s3.amazonaws.com/photos/161611344/original.jpeg	"[{""left"":0.39,""top"":0.375,""width"":0.175,""height"":0.19}]"	objects	exam-review-05-161611344	reject
+24372781	https://inaturalist-open-data.s3.amazonaws.com/photos/24372781/original.jpeg	[]	empty	exam-review-06-24372781	approve
+760354796	https://inaturalist-open-data.s3.amazonaws.com/photos/760354796/original.jpg	"[{""left"":0.031,""top"":0.22,""width"":0.587,""height"":0.631}]"	objects	exam-review-07-760354796	reject
+22838470	https://inaturalist-open-data.s3.amazonaws.com/photos/22838470/original.jpg	[]	empty	exam-review-08-22838470	approve
+215517473	https://inaturalist-open-data.s3.amazonaws.com/photos/215517473/original.jpeg	"[{""left"":0.248,""top"":0.214,""width"":0.616,""height"":0.554},{""left"":0.274,""top"":0.235,""width"":0.616,""height"":0.554}]"	objects	exam-review-09-215517473	reject
+208926747	https://inaturalist-open-data.s3.amazonaws.com/photos/208926747/original.jpg	"[{""left"":0.088,""top"":0.05,""width"":0.912,""height"":0.737}]"	objects	exam-review-10-208926747	reject

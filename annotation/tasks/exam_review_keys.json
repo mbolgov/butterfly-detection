@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "group": "exam_review",
+      "number": 1,
+      "photo_id": 281782697,
+      "key": {
+        "verdict": "approve",
+        "reasons": []
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 2,
+      "photo_id": 124165290,
+      "key": {
+        "verdict": "reject",
+        "reasons": [
+          "extra"
+        ]
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 3,
+      "photo_id": 630671477,
+      "key": {
+        "verdict": "approve",
+        "reasons": []
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 4,
+      "photo_id": 277389111,
+      "key": {
+        "verdict": "approve",
+        "reasons": []
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 5,
+      "photo_id": 161611344,
+      "key": {
+        "verdict": "reject",
+        "reasons": [
+          "bounds"
+        ]
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 6,
+      "photo_id": 24372781,
+      "key": {
+        "verdict": "approve",
+        "reasons": []
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 7,
+      "photo_id": 760354796,
+      "key": {
+        "verdict": "reject",
+        "reasons": [
+          "missed"
+        ]
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 8,
+      "photo_id": 22838470,
+      "key": {
+        "verdict": "approve",
+        "reasons": []
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 9,
+      "photo_id": 215517473,
+      "key": {
+        "verdict": "reject",
+        "reasons": [
+          "extra"
+        ]
+      }
+    },
+    {
+      "group": "exam_review",
+      "number": 10,
+      "photo_id": 208926747,
+      "key": {
+        "verdict": "reject",
+        "reasons": [
+          "extra"
+        ]
+      }
+    }
+  ]
+}
