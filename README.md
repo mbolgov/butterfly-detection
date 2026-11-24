@@ -16,13 +16,15 @@
 
 ## Контест
 
-Все три посылки получили 10/10. [Задача в Контесте](https://contest.yandex.ru/contest/103082/)
+За каждую из трёх посылок в таблице команда получила 10/10. [Задача в Контесте](https://contest.yandex.ru/contest/103082/)
 
 | Посылка | Промпт | Порог уверенности |
 |---|---|---:|
 | [Qwen3-VL-2B-Instruct](contest/01_Qwen3-VL-2B_adult-butterflies_exclude-moths.jsonl) | Найти всех взрослых бабочек Papilionoidea, исключить моль. [Полный промпт `qwen_old`](experiments/plan.json) | без порога |
 | [OWLv2 base](contest/02_OWLv2-base_adult-butterfly_thr-0.45.jsonl) | `a photo of an adult butterfly` | 0,45 |
 | [Grounding DINO tiny](contest/03_Grounding-DINO-tiny_butterfly_thr-0.55.jsonl) | `butterfly.` | 0,55 |
+
+На тех же 400 фото Контеста получили предсказания с настройками, выбранными на 300 командных фото. [Qwen с коротким промптом](contest/final/01_Qwen3-VL-2B_butterfly_simple.jsonl) · [OWLv2 с порогом 0,46](contest/final/02_OWLv2-base_adult-butterfly_thr-0.46.jsonl) · [Grounding DINO с запросом `butterfly or moth.` и порогом 0,57](contest/final/03_Grounding-DINO-tiny_butterfly-or-moth_thr-0.57.jsonl)
 
 ## Запуск
 
